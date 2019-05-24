@@ -1,0 +1,36 @@
+header.masthead{
+	background-image:url('../img/vuelofidji5.jpg');
+}
+
+
+
+
+#video button{
+	position:absolute;
+	top:20%
+lef:40%
+}
+
+	
+h1{
+font-family: 'Arbutus' , cursive;
+}	
+	
+	
+.btn-primary{
+background-color:green;
+border-color: #ee0979;	
+}	
+	
+	
+	footer a .fab{
+		color:purple;
+		backgrond-color:white;
+		font-size:3em;
+		border-radius:50%;
+		padding:.3em;
+	}
+	
+.txcolor{
+	color: green;
+}

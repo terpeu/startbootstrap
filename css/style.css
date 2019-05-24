@@ -13,12 +13,18 @@ lef:40%
 
 	
 h1{
-font-family: 'Arbutus' , cursive;
+color:Cyan ;
 }	
+header h2{
+	color:DarkCyan; 
+}
+body{
+	background-color:DarkSalmon ;
+}
 	
 	
 .btn-primary{
-background-color:green;
+background-color:DarkTurquoise ;
 border-color: #ee0979;	
 }	
 	
@@ -32,5 +38,5 @@ border-color: #ee0979;
 	}
 	
 .txcolor{
-	color: green;
+	color: Indigo   ;
 }
